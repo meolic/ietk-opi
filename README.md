@@ -1,6 +1,9 @@
 # Projekt ietk-opi
 Gradivo za vaje OPI, FERI, Univerza v Mariboru
 
+Objavljene so le predloge za dokumentacijo.
+Besedilo naloge je na voljo v sistemu Moodle.
+
 # Navodilo
 Iz tega repozitorija lahko dokumente le vzamete.
 Če želite imeti svoj repozitorij, v katerega lahko 
@@ -14,6 +17,7 @@ Priporočljiv začetek dela poteka v naslednjih korakih:
 - kopija celotnega projekta se bo prenesla k vam
 - delo nadaljujete na svoji kopiji
 
-Med letom bodo na Moodlu in tudi tukaj objavljeni dodatni dokumenti.
-Te dodatne dokumente ne morete prenesti k sebi z gumbom fork (ta je
-namenjen le tvorjenju novega projekta) ampak jih kopirate ročno.
+Če so med letom v tem repozitoriju objavljeni dodatni dokumenti, potem jih ne
+morete dodati v svojo kopijo z gumbom fork (ta je namenjen le tvorjenju novega
+projekta) ampak jih prenesete in dodate ročno vsakega posebej.
+
