@@ -20,3 +20,6 @@ Priporočljiv začetek dela poteka v naslednjih korakih:
 Če so med letom v tem repozitoriju objavljeni dodatni dokumenti, potem jih ne
 morete dodati v svojo kopijo z gumbom fork (ta je namenjen le tvorjenju novega
 projekta) ampak jih prenesete in dodate ročno vsakega posebej.
+
+# Zanimive povezave
+[http://prose.io/#meolic/ietk-opi/](http://prose.io/#meolic/ietk-opi/)
