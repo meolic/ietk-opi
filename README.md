@@ -21,5 +21,5 @@ Priporočljiv začetek dela poteka v naslednjih korakih:
 morete dodati v svojo kopijo z gumbom fork (ta je namenjen le tvorjenju novega
 projekta) ampak jih prenesete in dodate ročno vsakega posebej.
 
-# Zanimive povezave
+# Zanimive povezave (test)
 [http://prose.io/#meolic/ietk-opi/](http://prose.io/#meolic/ietk-opi/)
