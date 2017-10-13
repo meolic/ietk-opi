@@ -6,20 +6,17 @@ Besedilo naloge je na voljo v sistemu Moodle.
 
 # Navodilo
 Iz tega repozitorija lahko dokumente le vzamete.
-Če želite imeti svoj repozitorij, v katerega lahko 
-tudi pišete, potem ga morate tvoriti sami.
+Če želite imeti svoj repozitorij, v katerega lahko tudi pišete, potem ga morate tvoriti sami.
 
-Priporočljiv začetek dela poteka v naslednjih korakih:
-- registrirate se na portalu GitHub
+Priporočljivi koraki za začetek dela:
+- registrirate se na portalu [GitLab](https://gitlab.com/) ali [GitHub](https://github.com/)
 - prijavite se s svojim imenom
-- ko ste na domači strani projekta (to je stran, ki jo ravnokar gledate)
-  kliknete gumb Fork zgoraj desno
-- kopija celotnega projekta se bo prenesla k vam
+- ko ste na domači strani projekta (to je stran, ki jo ravnokar gledate) izberete akcijo Fork
+- tvorila se bo vaša osebna kopija celotnega projekta
 - delo nadaljujete na svoji kopiji
 
-Če so med letom v tem repozitoriju objavljeni dodatni dokumenti, potem jih ne
-morete dodati v svojo kopijo z gumbom fork (ta je namenjen le tvorjenju novega
-projekta) ampak jih prenesete in dodate ročno vsakega posebej.
+Če so med letom v tem repozitoriju dokumenti posodobljeni oz. so objavljeni dodatni dokumenti, potem novosti ne morete dodati v svojo kopijo z akcijo Fork (ta je namenjena le tvorjenju novega
+projekta) ampak jih prenesete ter sinhronizirate ročno vsakega posebej.
 
 # Zanimive povezave
 
