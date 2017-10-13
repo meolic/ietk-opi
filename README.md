@@ -24,4 +24,5 @@ projekta) ampak jih prenesete in dodate ročno vsakega posebej.
 # Zanimive povezave
 
 - hitre spremembe v datoteki na GitHub:
-  [http://prose.io/#meolic/ietk-opi/](http://prose.io/#meolic/ietk-opi/)
+  [http://prose.io/#meolic/ietk-opi/](http://prose.io/#meolic/ietk-opi/),
+  [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
